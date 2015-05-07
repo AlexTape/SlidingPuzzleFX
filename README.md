@@ -1,4 +1,4 @@
-javafx-sliding-puzzle
+SlidingPuzzleFX
 =====================
 
 A simple javafx sliding puzzle.
